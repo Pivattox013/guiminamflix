@@ -1,0 +1,75 @@
+body {
+    color: white;
+
+    background: rgb(1, 1, 1);
+}
+
+
+header {
+    border-bottom: solid 2px rgb(115, 22, 10);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(112, 15, 5);
+}
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+section {
+    background: rgb(8, 1, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+img {
+    height: 200px;
+  }
+
+  .categoria-trailers {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.chamada {
+    background: rgb(115, 15, 4);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* código omitido */
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
